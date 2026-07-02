@@ -1,5 +1,3 @@
-
-**Melopheelo12/Melopheelo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Salut, moi c'est Ryan
 
 ## À propos de moi
@@ -44,11 +42,9 @@ Devenir développeur backend spécialisé en cybersécurité.
 
 ## Me contacter
 
-- LinkedIn : (ton lien)
+- LinkedIn : https://www.linkedin.com/in/ryan-tipveau-dev
 - Email : ryan12052002@gmail.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Homelab personel
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on ...
 
