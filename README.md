@@ -9,7 +9,7 @@
 - Cybersécurité
 - Linux
 - Homelab
-- DevOps
+- Realité virtuel
 
 ## Technologies
 
